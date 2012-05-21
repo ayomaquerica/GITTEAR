@@ -9,6 +9,7 @@ public class manola {
 		
 		System.out.println("nos hacemos unas pajillas");
 System.out.println("SI ME TIRO UN PEO...OLERÁ");
+System.out.println("VAYA PASADA");
 	}
 
 }
