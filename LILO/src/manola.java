@@ -8,7 +8,7 @@ public class manola {
 		// TODO Auto-generated method stub
 		
 		System.out.println("nos hacemos unas pajillas");
-
+System.out.println("vocoy vocoy");
 	}
 
 }
