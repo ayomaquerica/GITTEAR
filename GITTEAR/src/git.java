@@ -9,6 +9,7 @@ public class git {
 System.out.println("primero");
 System.out.println("hola rama 1");
 System.out.println("otra vez en rama 1");
+System.out.println("gghhuu");
 	}
 
 }
