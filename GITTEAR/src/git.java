@@ -8,6 +8,7 @@ public class git {
 		// TODO Auto-generated method stub
 System.out.println("primero");
 System.out.println("hola rama 1");
+System.out.println("otra vez en rama 1");
 	}
 
 }
